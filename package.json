@@ -1,7 +1,7 @@
 {
   "name": "sfd-simple-calculator",
-  "version": "3.2.2",
-  "description": "This is the Simple Calculator using TypeScript",
+  "version": "4.2.2",
+  "description": "This is Command Line Simple Calculator using TypeScript",
   "main": "index.js",
   "type": "module",
   "bin": "index.js",
